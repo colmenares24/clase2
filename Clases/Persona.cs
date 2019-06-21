@@ -16,7 +16,7 @@ namespace Clases
         /// <summary>
         /// Metodo para mostrar los datos de la persona
         /// Creado el 08/05/2019
-        /// autor:Diego Gamboa
+        /// autor:Jose Luis Colmenares
         /// </summary>
         /// <param name="Personita"></param>
         public void VisualizarPersona(Persona Personita)
@@ -26,7 +26,7 @@ namespace Clases
         /// <summary>
         /// Metodo para crear persona
         /// Creado el 08/05/2019
-        /// autor:Diego Gamboa
+        /// autor:Jose Luis Colmenares
         /// </summary>
         /// <param name="personita"></param>
         public void IngresarPersona(Persona personita)
